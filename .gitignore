@@ -4,3 +4,5 @@
 **/Dataset/Data/
 **/Dataset/DataFiltered/
 **/Dataset/train.csv
+**/Inframe_detection/bottleneck_features_train.npy
+**/Inframe_detection/bottleneck_features_validation.npy
